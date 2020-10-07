@@ -12,6 +12,3 @@ Realise that they need SMS verification.
 
 ## Step 4
 Own a Twitter Bot empire! 
-
-## Step 5 
-Visit https://bucss.net/nowyouseeme
